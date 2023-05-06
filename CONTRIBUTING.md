@@ -31,7 +31,7 @@ Storybook - [Storybook Documentation](https://storybook.js.org/)
     ```
 6.  Set the upstream repository:
     ```bash
-    git remote add upstream https://github.com/AccessibleForAll/AccessibleWebDev.git
+    git remote add upstream https://github.com/AccessibleForAll/AccessibleForAll.git
     ```
 7.  Install dependencies:
     ```bash
