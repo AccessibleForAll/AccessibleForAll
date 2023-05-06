@@ -27,7 +27,7 @@ Storybook - [Storybook Documentation](https://storybook.js.org/)
     ```
 5.  Navigate to the project directory:
     ```bash
-    cd AccessibleWebDev
+    cd AccessibleForAll
     ```
 6.  Set the upstream repository:
     ```bash
