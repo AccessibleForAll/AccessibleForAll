@@ -23,7 +23,7 @@ Storybook - [Storybook Documentation](https://storybook.js.org/)
 3.  [Fork](https://github.com/AccessibleForAll/AccessibleForAll/fork) the project
 4.  Clone the project:
     ```bash
-    git clone https://github.com/<your-github-username>/AccessibleWebDev
+    git clone https://github.com/<your-github-username>/AccessibleForAll
     ```
 5.  Navigate to the project directory:
     ```bash
