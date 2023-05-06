@@ -18,7 +18,7 @@ Storybook - [Storybook Documentation](https://storybook.js.org/)
 
 ## How to contribute
 
-1.  Look through [Pre-existing issues](https://github.com/AccessibleForAll/AccessibleWebDev/issues) or [Raise a new issue](https://github.com/AccessibleForAll/AccessibleWebDev/issues/new/choose) and ask to be assigned. Pull requests made without a corresponding issue will likely be closed.
+1.  Look through [Pre-existing issues](https://github.com/AccessibleForAll/AccessibleForAll/issues) or [Raise a new issue](https://github.com/AccessibleForAll/AccessibleForAll/issues/new) and ask to be assigned. Pull requests made without a corresponding issue will likely be closed.
 2. Please check the [coding standards](https://github.com/AccessibleForAll/AccessibleWebDev/blob/main/CODING_STANDARDS.md) page before start contributing.
 3.  [Fork](https://github.com/AccessibleForAll/AccessibleForAll/fork) the project
 4.  Clone the project:
