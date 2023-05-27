@@ -2,7 +2,7 @@
 
 ## License
 
-AccessibleWebDev is licensed under the MIT License - see [License](https://github.com/AccessibleForAll/AccessibleWebDev/blob/main/LICENSE)
+AccessibleForAll is licensed under the MIT License - see [License](https://github.com/AccessibleForAll/AccessibleForAll/blob/main/LICENSE)
 
 ## Contributing
 
